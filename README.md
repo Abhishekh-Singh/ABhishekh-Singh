@@ -1,4 +1,4 @@
-[![MasterHead](https://www.interviewbit.com/blog/wp-content/uploads/2021/09/machine-learning.jpg)]
+[![MasterHead](https://miro.medium.com/max/800/1*rjxQ7eWPMT_3ZffeAMDsGg.png)]
 <h1 align="center">Hey, This is Abhishek !</h1>
 <h3 align="center">CSE UnderGrad</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
