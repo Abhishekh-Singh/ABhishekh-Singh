@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/800/1*rjxQ7eWPMT_3ZffeAMDsGg.png)]
+[![MasterHead](https://d35fo82fjcw0y8.cloudfront.net/2016/07/03210503/data-science.png)]
 <h1 align="center">Hey, This is Abhishek !</h1>
 <h3 align="center">CSE UnderGrad</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
