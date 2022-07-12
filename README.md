@@ -1,16 +1,18 @@
-[![MasterHead](https://4e4e3t1v20sachr2v14ntkx1-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/1200229455626680-SaasHero-1920x1080-JPH-2.01.png)]
+[![MasterHead](https://www.ubs.com/content/dam/ubs/microsites/artificial-intelligence/img-chapter-two-header.gif)]
 <h1 align="center">Hey, This is Abhishek !</h1>
 <h3 align="center">CSE UnderGrad</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
-- 🔭 I’m currently working on [Predictive Maintenance](http://abhisheksingh-portfolio.herokuapp.com/project/predictive-maintenance)
+- 🔭 I’m currently working on [Predictive Maintenance](github.com/Abhishekh-Singh/Predictive-Maintenance)
 
-- 🌱 I’m currently learning **End-to-End Machine Learning Projects and Pipelines**
+- 🌱 I’m currently learning **End-to-End ML/DL Architecture and Pipelining.**
 
-- 👨‍💻 All of my projects are available at [rebrand.ly/AbhishekSingh](rebrand.ly/AbhishekSingh)
+- 👨‍💻 All of my projects are available at [abhisheksingh-portfolio.herokuapp.com/post-project](abhisheksingh-portfolio.herokuapp.com/post-project)
+
+- 💬 Ask me about **Machine Learning, Statistics, Big Data, Django**
 
 - 📫 How to reach me **singh.abhishekh20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12VwszGWtf9V5NEY7eITYJFRZ_gmuWCEl/view](https://drive.google.com/file/d/12VwszGWtf9V5NEY7eITYJFRZ_gmuWCEl/view)
+- 📄 Know about my experiences [abhisheksingh-portfolio.herokuapp.com/#about](abhisheksingh-portfolio.herokuapp.com/#about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
