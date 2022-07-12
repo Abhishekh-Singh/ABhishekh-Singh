@@ -1,12 +1,12 @@
-[![MasterHead](https://www.ubs.com/content/dam/ubs/microsites/artificial-intelligence/img-chapter-two-header.gif)]
+[![MasterHead](https://www.evolven.com/media/k2/items/cache/e213534406f5e673030b12a49a117407_L.jpg)]()
 <h1 align="center">Hey, This is Abhishek !</h1>
 <h3 align="center">CSE UnderGrad</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
-- 🔭 I’m currently working on [Predictive Maintenance](github.com/Abhishekh-Singh/Predictive-Maintenance)
+- 🔭 I’m currently working on [Predictive Maintenance](https://github.com/Abhishekh-Singh/Predictive-Maintenance)
 
 - 🌱 I’m currently learning **End-to-End ML/DL Architecture and Pipelining.**
 
-- 👨‍💻 All of my projects are available at [abhisheksingh-portfolio.herokuapp.com/post-project](abhisheksingh-portfolio.herokuapp.com/post-project)
+- 👨‍💻 All of my projects are available at [abhisheksingh-portfolio.herokuapp.com/post-project](http://abhisheksingh-portfolio.herokuapp.com/post-project)
 
 - 💬 Ask me about **Machine Learning, Statistics, Big Data, Django**
 
