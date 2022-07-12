@@ -1,4 +1,4 @@
-[![MasterHead](https://www.globalcoach.in/wp-content/uploads/2020/02/AI-WITH-Python-feb-.png)](rebrand.ly/AbhishekSingh)
+[![MasterHead](https://www.globalcoach.in/wp-content/uploads/2020/02/AI-WITH-Python-feb-.png)]
 <h1 align="center">Hey, This is Abhishek !</h1>
 <h3 align="center">CSE UnderGrad</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
