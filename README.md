@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwSPO0_jKl2hME3Dqi9TBON2oFsHwenLAPrYSAHxC5-czJzXh3TWSb5epr0so6MvqCPQ&usqp=CAU)]
+[![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2022/03/Machine-Learning-Model.gif)]
 <h1 align="center">Hey, This is Abhishek !</h1>
 <h3 align="center">CSE UnderGrad</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
