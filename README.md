@@ -1,6 +1,6 @@
 [![MasterHead](https://www.evolven.com/media/k2/items/cache/e213534406f5e673030b12a49a117407_L.jpg)]()
 <h1 align="center">Hey, This is Abhishek !</h1>
-<h3 align="center">CSE UnderGrad</h3>
+<h3 align="center">Python|Machine Learning|Hadoop|Django</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
 
 - 🔭 I’m currently working on [ Predictive Maintenance ](http://abhisheksingh-portfolio.herokuapp.com/project/predictive-maintenance/)
