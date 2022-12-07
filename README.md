@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](http://abhisheksingh-portfolio.herokuapp.com/post-project)
 
-- 💬 Ask me about **Machine Learning, Statistics, Big Data, Django**
+- 💬 Ask me about **Machine Learning, Statistics, MLOPS, Django**
 
 - 📫 How to reach me **singh.abhishekh20@gmail.com**
 
