@@ -3,11 +3,11 @@
 <h3 align="center">Machine Learning | Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
 
-- 🔭 I’m currently working on [ Predictive Maintenance ](http://abhisheksingh-portfolio.herokuapp.com/project/predictive-maintenance/)
+- 🔭 I’m currently working on [ Sensor Fault Detection ](https://github.com/Abhishekh-Singh/Sensor-Fault-Detection)
 
 - 🌱 I’m currently learning **End-to-End ML/DL Architecture and Pipelining.**
 
-- 👨‍💻 All of my projects are available at [Projects](http://abhisheksingh-portfolio.herokuapp.com/post-project)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Abhishekh-Singh?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, Statistics, MLOPS, Django**
 
