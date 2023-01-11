@@ -3,9 +3,9 @@
 <h3 align="center">Machine Learning | Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
 
-- 🔭 I’m currently working on [ Sensor Fault Detection ](https://github.com/Abhishekh-Singh/Sensor-Fault-Detection)
+- 🔭 I’m currently working on [ Sensor Fault Detection ](https://github.com/Abhishekh-Singh/Sensor-Fault-Detection), an end-to-end MLOPS deployed solution for predicting faulty Air Pressure System(APS) sensors in heavy vehichels.
 
-- 🌱 I’m currently learning **End-to-End ML/DL Architecture and Pipelining.**
+- 🌱 I’m currently learning ** MLOPS Architecture and scalable automated ML pipelines**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Abhishekh-Singh?tab=repositories)
 
