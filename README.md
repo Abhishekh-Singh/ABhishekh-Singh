@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **singh.abhishekh20@gmail.com**
 
-- 📄 Know about my experiences [Resume](http://abhisheksingh-portfolio.herokuapp.com/#about)
+- 📄 Know about my experiences [Resume](https://abhisheksingh.up.railway.app/#about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
