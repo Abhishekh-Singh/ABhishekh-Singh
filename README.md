@@ -3,13 +3,13 @@
 <h3 align="center">Machine Learning | Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://vani.nic.in/vahanBot/images/vani-gif.gif">
 
-- 🔭 I’m currently working on [ Sensor Fault Detection ](https://github.com/Abhishekh-Singh/Sensor-Fault-Detection), an end-to-end MLOPS deployed solution for predicting faulty Air Pressure System(APS) sensors in heavy vehichels.
+- 🔭 I’m currently working in Cron Labs Pvt. Ltd. as a Jr. Data Scientist.
 
-- 🌱 I’m currently learning ** MLOPS Architecture and scalable automated ML pipelines**
+- 🌱 I’m currently involved in ** Business Understanding and delivering scalable Analytics solutions to major business companies in vast domains.**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/Abhishekh-Singh?tab=repositories)
+- 👨‍💻 You can walk through my journey here: [Portfolio](https://abhisheksingh.up.railway.app)
 
-- 💬 Ask me about **Machine Learning, Statistics, MLOPS, Django**
+- 💬 Ask me about **Machine Learning, Statistics, MLOPS**
 
 - 📫 How to reach me **singh.abhishekh20@gmail.com**
 
